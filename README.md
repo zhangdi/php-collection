@@ -1,2 +1,3 @@
 # php-collection
-A collection lib for PHP.
+A simple collection lib for PHP.
+
